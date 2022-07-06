@@ -1,0 +1,132 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    
+    text-align: center;
+}
+section img{
+    width: 100%;
+    height: 669px;
+    position: relative;
+}
+.first-part{
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+h1{
+    font-size: 60px;
+}
+.small-font{
+    
+}
+.linked-button{
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 15px;
+    border-radius: 5%;
+}
+.parent-div{
+    display: flex;
+    margin-left: 400px;
+}
+.parent-div p{
+    background-color: white;
+   margin-left: 20px;
+   padding: 30px 30px;
+}
+#border{
+    border: 2px solid red;
+}
+hr{
+    width: 50%;
+}
+.parent-div2{
+    
+}
+.parent-div2 img{
+    width: 40px;
+    height: 30px;
+    margin-right: 0px;
+}
+.child-div{
+    width: 360px;
+    height: 352px;
+    background-color: #a4abac;
+   
+}
+.div-area{
+    width: 50px;
+    height: 40px;
+    margin: 0;
+}
+.child-div1{
+    width: 360px;
+    height: 352px;
+    background-color:#FFEEEE;
+    margin-left: 40px;
+   
+}
+.child-div2{
+    width: 360px;
+    height: 352px;
+    background-color:#FFF4D6;
+    margin-left: 40px;
+   
+}
+.fourth-section{
+    display: flex;
+    margin-top: 80px;
+}
+.fourth-section img{
+    width: 456px;
+    height: 477px;
+}
+.last-part{
+    width: 550px;
+    height: 140px;
+    background-color: blanchedalmond;
+    margin: 0 auto;
+    position: relative;
+}
+.frm{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 60px;
+}
+#field{
+    height: 30px;
+    background-color: rgb(218, 208, 208);
+    color: white;
+}
+.frm>button{
+    background-color:#FF5959 ;
+    columns: white;
+    padding: 8px 15px;
+}
+.footer-part{
+    width: 100%;
+    height: 150px;
+    background-color:black;
+    text-align: center;
+}
+#footer-color{
+    color: tomato
+    
+}
+#footer-color1{
+    color: gray;
+}
+.footer-inside{
+    margin-top: 20px auto;
+    
+}
+.B{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 100px;
+}
